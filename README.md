@@ -1,8 +1,10 @@
 # hello-world
-First Github repository
 
-Greetings Earthlings!
+# First Github repository
 
-I am Olivia Taylor and I enjoy dynamic web designing using languages like JavaScript, HTML and CSS.
+## Greetings Earthlings! 👽
 
-Aw, what time is it? Is it SMOKO?!
+I am *Olivia Taylor* and I enjoy dynamic **web designing** using languages like 
+- JavaScript, 
+- HTML and 
+- CSS.
